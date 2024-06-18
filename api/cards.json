@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "name": "Západ slunce s loďkou",
+        "dimensions": "14 x 19",
+        "ulr": "https://pixabay.com/photos/sunset-boat-beach-fishing-boat-2983614/",
+        "cost": "50",
+        "description": "Evokuje obraz klidného večera a rozjímání. Zlatavé paprsky slunce se odrážejí na hladině vody a obklopují loďku v teplém světle. Tento scénář vyvolává pocit nostalgie a míru, když den pomalu přechází v noc."
+    },
+    {
+        "id": 1,
+        "name": "Ptáček na větvičce",
+        "dimensions": "14 x 19",
+        "ulr": "https://pixabay.com/photos/bird-blue-clouds-weather-pen-8788491/",
+        "cost": "50",
+        "description": "Poetický obraz zachycující křehkost a krásu přírody. Modrý pták, sedící tiše na tenké větvi, symbolizuje klid a harmonii. Tento jednoduchý, ale výmluvný moment připomíná spojení s přírodním světem."
+    },
+    {
+        "id": 2,
+        "name": "Modré poupě",
+        "dimensions": "14 x 19",
+        "ulr": "https://pixabay.com/photos/blue-flower-bloom-blossom-summer-4157419/",
+        "cost": "50",
+        "description": "Je obrazem naděje a nového začátku v přírodě. Jeho jemné modré lístky jsou jako šepot přírody, který slibuje rozkvět. Toto poupě, zářící svou barvou, je symbolem krásy, která se má teprve ukázat."
+    },
+    {
+        "id": 3,
+        "name": "Moderní princezna",
+        "dimensions": "14 x 19",
+        "ulr": "https://pixabay.com/photos/nature-model-smile-woman-girl-4779321/",
+        "cost": "50",
+        "description": "Vyvolává pohádkové představy plné kouzla a něhy. Ve snu se mísí odvaha s láskou, a vytváří se příběh plný dobrodružství a romantiky. Je to příběh ze světa fantazie, kde je vše možné."
+    },
+    {
+        "id": 4,
+        "name": "Bodláky se čmelákem",
+        "dimensions": "14 x 19",
+        "ulr": "https://pixabay.com/photos/thistle-globe-thistle-blue-flower-5161762/",
+        "cost": "50",
+        "description": "Jsou příkladem nečekané krásy v přírodě. I přes svou ostnatou povahu, tyto rostliny rozkvétají s nádhernými fialovými květy. Jejich květy jsou jako odvážní průzkumníci, kteří se nebojí ukázat svou krásu ve světě plném výzev."
+    },
+    {
+        "id": 5,
+        "name": "Cesta k moři",
+        "dimensions": "14 x 19",
+        "ulr": "https://pixabay.com/photos/thin-sea-fence-water-vacation-2902686/",
+        "cost": "50",
+        "description": "Vyvolává obraz tajemství. Trávy šumí ve větru a rytmicky se pohybují. Kůly bezpečně vedou k mořskému pobřeží a pohled směřuje k nekonečnému horizontu v dálce. Tato cesta je jako poutník, který objevuje krásu v jednoduchosti a každodennosti. Na konci překvapí osvěžením v teplých vodách."
+    },
+    {
+        "id": 6,
+        "name": "Západ slunce v zimě",
+        "dimensions": "14 x 19",
+        "ulr": "https://pixabay.com/photos/winter-landscape-sunset-cold-snow-636634/",
+        "cost": "50",
+        "description": "Přináší pocit klidu a ticha, který zimní podvečer může nabídnout. Obloha plná pastelových barev se odráží na sněhové pokrývce a dodává krajině magický nádech. Tento moment je připomínkou, že i v nejchladnějších dnech může příroda ukázat svou ohromující krásu."
+    }
+]
